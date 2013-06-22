@@ -9,15 +9,15 @@ package com.iyubinest.sliderselectorwidget;
 
 public final class R {
     public static final class anim {
-        public static final int in_left_to_right=0x7f030000;
-        public static final int in_right_to_left=0x7f030001;
-        public static final int out_left_to_right=0x7f030002;
-        public static final int out_right_to_left=0x7f030003;
+        public static int in_left_to_right=0x7f030000;
+        public static int in_right_to_left=0x7f030001;
+        public static int out_left_to_right=0x7f030002;
+        public static int out_right_to_left=0x7f030003;
     }
     public static final class attr {
     }
     public static final class drawable {
-        public static final int off=0x7f020000;
-        public static final int on=0x7f020001;
+        public static int off=0x7f020000;
+        public static int on=0x7f020001;
     }
 }

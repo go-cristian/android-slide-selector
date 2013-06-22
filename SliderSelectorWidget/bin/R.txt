@@ -1,0 +1,6 @@
+int anim in_left_to_right 0x7f030000
+int anim in_right_to_left 0x7f030001
+int anim out_left_to_right 0x7f030002
+int anim out_right_to_left 0x7f030003
+int drawable off 0x7f020000
+int drawable on 0x7f020001
